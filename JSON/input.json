@@ -1,0 +1,164 @@
+[
+   
+   {  
+      "idCMD" :"1",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/0",
+      "ISAPIXML" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<StreamingChannel>\n    <Video>\n        <enabled>%s</enabled>\n        <videoCodecType>H.264</videoCodecType>\n        <videoResolutionWidth>1280</videoResolutionWidth>\n        <videoResolutionHeight>1080</videoResolutionHeight>\n        <videoQualityControlType>avbr</videoQualityControlType>\n        <vbrUpperCap>256</vbrUpperCap>\n        <maxFrameRate>16</maxFrameRate>\n        <GovLength>30</GovLength>\n        <fixedQuality>100</fixedQuality>\n        <H264Profile>Main</H264Profile>\n    </Video>\n    <Audio>\n        <enabled>true</enabled>\n        <audioCompressionType>G.711alaw</audioCompressionType>\n        <audioInputChannelID>1</audioInputChannelID>\n    </Audio>\n</StreamingChannel>",
+      "Params" : {
+         "char" : "true"  
+      }
+   },
+   {  
+      "idCMD" :"2",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/0",
+      "ISAPIXML" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<StreamingChannel>\n    <Video>\n        <enabled>%s</enabled>\n        <videoCodecType>H.264</videoCodecType>\n        <videoResolutionWidth>1280</videoResolutionWidth>\n        <videoResolutionHeight>1080</videoResolutionHeight>\n        <videoQualityControlType>avbr</videoQualityControlType>\n        <vbrUpperCap>256</vbrUpperCap>\n        <maxFrameRate>16</maxFrameRate>\n        <GovLength>30</GovLength>\n        <fixedQuality>100</fixedQuality>\n        <H264Profile>Main</H264Profile>\n    </Video>\n    <Audio>\n        <enabled>true</enabled>\n        <audioCompressionType>G.711alaw</audioCompressionType>\n        <audioInputChannelID>1</audioInputChannelID>\n    </Audio>\n</StreamingChannel>",
+      "Params" : {
+         "char" : "false"
+      }
+   },
+   {  
+      "idCMD" :"3",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/0",
+      "ISAPIXML" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<StreamingChannel>\n    <Video>\n        <enabled>true</enabled>\n        <videoCodecType>H.264</videoCodecType>\n        <videoResolutionWidth>%d</videoResolutionWidth>\n        <videoResolutionHeight>1080</videoResolutionHeight>\n        <videoQualityControlType>avbr</videoQualityControlType>\n        <vbrUpperCap>256</vbrUpperCap>\n        <maxFrameRate>16</maxFrameRate>\n        <GovLength>30</GovLength>\n        <fixedQuality>100</fixedQuality>\n        <H264Profile>Main</H264Profile>\n    </Video>\n    <Audio>\n        <enabled>true</enabled>\n        <audioCompressionType>G.711alaw</audioCompressionType>\n        <audioInputChannelID>1</audioInputChannelID>\n    </Audio>\n</StreamingChannel>",
+      "Params" : {
+         "int" : "640"
+      }
+   },
+   {  
+      "idCMD" :"4",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/0",
+      "ISAPIXML" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<StreamingChannel>\n    <Video>\n        <enabled>true</enabled>\n        <videoCodecType>H.264</videoCodecType>\n        <videoResolutionWidth>%d</videoResolutionWidth>\n        <videoResolutionHeight>1080</videoResolutionHeight>\n        <videoQualityControlType>avbr</videoQualityControlType>\n        <vbrUpperCap>256</vbrUpperCap>\n        <maxFrameRate>16</maxFrameRate>\n        <GovLength>30</GovLength>\n        <fixedQuality>100</fixedQuality>\n        <H264Profile>Main</H264Profile>\n    </Video>\n    <Audio>\n        <enabled>true</enabled>\n        <audioCompressionType>G.711alaw</audioCompressionType>\n        <audioInputChannelID>1</audioInputChannelID>\n    </Audio>\n</StreamingChannel>",
+      "Params" : {
+         "int" : "320"
+      }
+   },
+   {  
+      "idCMD" :"5",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/0",
+      "ISAPIXML" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<StreamingChannel>\n    <Video>\n        <enabled>true</enabled>\n        <videoCodecType>H.264</videoCodecType>\n        <videoResolutionWidth>%d</videoResolutionWidth>\n        <videoResolutionHeight>1080</videoResolutionHeight>\n        <videoQualityControlType>avbr</videoQualityControlType>\n        <vbrUpperCap>256</vbrUpperCap>\n        <maxFrameRate>16</maxFrameRate>\n        <GovLength>30</GovLength>\n        <fixedQuality>100</fixedQuality>\n        <H264Profile>Main</H264Profile>\n    </Video>\n    <Audio>\n        <enabled>true</enabled>\n        <audioCompressionType>G.711alaw</audioCompressionType>\n        <audioInputChannelID>1</audioInputChannelID>\n    </Audio>\n</StreamingChannel>",
+      "Params" : {
+         "int" : "1280"
+      }
+   },
+   {  
+      "idCMD" :"6",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/0",
+      "ISAPIXML" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<StreamingChannel>\n    <Video>\n        <enabled>true</enabled>\n        <videoCodecType>H.264</videoCodecType>\n        <videoResolutionWidth>%d</videoResolutionWidth>\n        <videoResolutionHeight>1080</videoResolutionHeight>\n        <videoQualityControlType>avbr</videoQualityControlType>\n        <vbrUpperCap>256</vbrUpperCap>\n        <maxFrameRate>16</maxFrameRate>\n        <GovLength>30</GovLength>\n        <fixedQuality>100</fixedQuality>\n        <H264Profile>Main</H264Profile>\n    </Video>\n    <Audio>\n        <enabled>true</enabled>\n        <audioCompressionType>G.711alaw</audioCompressionType>\n        <audioInputChannelID>1</audioInputChannelID>\n    </Audio>\n</StreamingChannel>",
+      "Params" : {
+         "int" : "1600"
+      }
+   },
+   {  
+      "idCMD" :"7",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/0",
+      "ISAPIXML" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<StreamingChannel>\n    <Video>\n        <enabled>true</enabled>\n        <videoCodecType>H.264</videoCodecType>\n        <videoResolutionWidth>1280</videoResolutionWidth>\n        <videoResolutionHeight>%d</videoResolutionHeight>\n        <videoQualityControlType>avbr</videoQualityControlType>\n        <vbrUpperCap>256</vbrUpperCap>\n        <maxFrameRate>16</maxFrameRate>\n        <GovLength>30</GovLength>\n        <fixedQuality>100</fixedQuality>\n        <H264Profile>Main</H264Profile>\n    </Video>\n    <Audio>\n        <enabled>true</enabled>\n        <audioCompressionType>G.711alaw</audioCompressionType>\n        <audioInputChannelID>1</audioInputChannelID>\n    </Audio>\n</StreamingChannel>",
+      "Params" : {
+         "int" : "1080"
+      }
+   }, 
+   {  
+   
+      "idCMD" :"8",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/0",
+      "ISAPIXML" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<StreamingChannel>\n    <Video>\n        <enabled>true</enabled>\n        <videoCodecType>H.264</videoCodecType>\n        <videoResolutionWidth>1280</videoResolutionWidth>\n        <videoResolutionHeight>%d</videoResolutionHeight>\n        <videoQualityControlType>avbr</videoQualityControlType>\n        <vbrUpperCap>256</vbrUpperCap>\n        <maxFrameRate>16</maxFrameRate>\n        <GovLength>30</GovLength>\n        <fixedQuality>100</fixedQuality>\n        <H264Profile>Main</H264Profile>\n    </Video>\n    <Audio>\n        <enabled>true</enabled>\n        <audioCompressionType>G.711alaw</audioCompressionType>\n        <audioInputChannelID>1</audioInputChannelID>\n    </Audio>\n</StreamingChannel>",
+      "Params" : {
+         "int" : "720"
+      }
+   },  
+   {  
+      "idCMD" :"9",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/0",
+      "ISAPIXML" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<StreamingChannel>\n    <Video>\n        <enabled>true</enabled>\n        <videoCodecType>H.264</videoCodecType>\n        <videoResolutionWidth>1280</videoResolutionWidth>\n        <videoResolutionHeight>%d</videoResolutionHeight>\n        <videoQualityControlType>avbr</videoQualityControlType>\n        <vbrUpperCap>256</vbrUpperCap>\n        <maxFrameRate>16</maxFrameRate>\n        <GovLength>30</GovLength>\n        <fixedQuality>100</fixedQuality>\n        <H264Profile>Main</H264Profile>\n    </Video>\n    <Audio>\n        <enabled>true</enabled>\n        <audioCompressionType>G.711alaw</audioCompressionType>\n        <audioInputChannelID>1</audioInputChannelID>\n    </Audio>\n</StreamingChannel>",
+      "Params" : {
+         "int" : "480"
+      }
+   },  
+   {  
+      "idCMD" :"10",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/0",
+      "ISAPIXML" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<StreamingChannel>\n    <Video>\n        <enabled>true</enabled>\n        <videoCodecType>H.264</videoCodecType>\n        <videoResolutionWidth>1280</videoResolutionWidth>\n        <videoResolutionHeight>%d</videoResolutionHeight>\n        <videoQualityControlType>avbr</videoQualityControlType>\n        <vbrUpperCap>256</vbrUpperCap>\n        <maxFrameRate>16</maxFrameRate>\n        <GovLength>30</GovLength>\n        <fixedQuality>100</fixedQuality>\n        <H264Profile>Main</H264Profile>\n    </Video>\n    <Audio>\n        <enabled>true</enabled>\n        <audioCompressionType>G.711alaw</audioCompressionType>\n        <audioInputChannelID>1</audioInputChannelID>\n    </Audio>\n</StreamingChannel>",
+      "Params" : {
+         "int" : "360"
+      }
+   }, 
+   {  
+      "idCMD" :"11",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/0",
+      "ISAPIXML" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<StreamingChannel>\n    <Video>\n        <enabled>true</enabled>\n        <videoCodecType>H.264</videoCodecType>\n        <videoResolutionWidth>1280</videoResolutionWidth>\n        <videoResolutionHeight>%d</videoResolutionHeight>\n        <videoQualityControlType>avbr</videoQualityControlType>\n        <vbrUpperCap>256</vbrUpperCap>\n        <maxFrameRate>16</maxFrameRate>\n        <GovLength>30</GovLength>\n        <fixedQuality>100</fixedQuality>\n        <H264Profile>Main</H264Profile>\n    </Video>\n    <Audio>\n        <enabled>true</enabled>\n        <audioCompressionType>G.711alaw</audioCompressionType>\n        <audioInputChannelID>1</audioInputChannelID>\n    </Audio>\n</StreamingChannel>",
+      "Params" : {
+         "int" : "240"
+      }
+   }, 
+   {  
+      "idCMD" :"13",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/0",
+      "ISAPIXML" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<StreamingChannel>\n    <Video>\n        <enabled>true</enabled>\n        <videoCodecType>H.264</videoCodecType>\n        <videoResolutionWidth>1280</videoResolutionWidth>\n        <videoResolutionHeight>1080</videoResolutionHeight>\n        <videoQualityControlType>avbr</videoQualityControlType>\n        <vbrUpperCap>%d</vbrUpperCap>\n        <maxFrameRate>16</maxFrameRate>\n        <GovLength>30</GovLength>\n        <fixedQuality>100</fixedQuality>\n        <H264Profile>Main</H264Profile>\n    </Video>\n    <Audio>\n        <enabled>true</enabled>\n        <audioCompressionType>G.711alaw</audioCompressionType>\n        <audioInputChannelID>1</audioInputChannelID>\n    </Audio>\n</StreamingChannel>",
+      "Params" : {
+         "int" : "512"
+      }
+   }, 
+   {  
+      "idCMD" :"14",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/0",
+      "ISAPIXML" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<StreamingChannel>\n    <Video>\n        <enabled>true</enabled>\n        <videoCodecType>H.264</videoCodecType>\n        <videoResolutionWidth>1280</videoResolutionWidth>\n        <videoResolutionHeight>1080</videoResolutionHeight>\n        <videoQualityControlType>avbr</videoQualityControlType>\n        <vbrUpperCap>%d</vbrUpperCap>\n        <maxFrameRate>16</maxFrameRate>\n        <GovLength>30</GovLength>\n        <fixedQuality>100</fixedQuality>\n        <H264Profile>Main</H264Profile>\n    </Video>\n    <Audio>\n        <enabled>true</enabled>\n        <audioCompressionType>G.711alaw</audioCompressionType>\n        <audioInputChannelID>1</audioInputChannelID>\n    </Audio>\n</StreamingChannel>",
+      "Params" : {
+         "int" : "1024"
+      }
+   }, 
+   {  
+      "idCMD" :"15",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/0",
+      "ISAPIXML" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<StreamingChannel>\n    <Video>\n        <enabled>true</enabled>\n        <videoCodecType>H.264</videoCodecType>\n        <videoResolutionWidth>1280</videoResolutionWidth>\n        <videoResolutionHeight>1080</videoResolutionHeight>\n        <videoQualityControlType>avbr</videoQualityControlType>\n        <vbrUpperCap>%d</vbrUpperCap>\n        <maxFrameRate>16</maxFrameRate>\n        <GovLength>30</GovLength>\n        <fixedQuality>100</fixedQuality>\n        <H264Profile>Main</H264Profile>\n    </Video>\n    <Audio>\n        <enabled>true</enabled>\n        <audioCompressionType>G.711alaw</audioCompressionType>\n        <audioInputChannelID>1</audioInputChannelID>\n    </Audio>\n</StreamingChannel>",
+      "Params" : {
+         "int" : "256"
+      }
+   },
+   {  
+      "idCMD" :"16",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/0",
+      "ISAPIXML" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<StreamingChannel>\n    <Video>\n        <enabled>true</enabled>\n        <videoCodecType>H.264</videoCodecType>\n        <videoResolutionWidth>1280</videoResolutionWidth>\n        <videoResolutionHeight>1080</videoResolutionHeight>\n        <videoQualityControlType>avbr</videoQualityControlType>\n        <vbrUpperCap>%d</vbrUpperCap>\n        <maxFrameRate>16</maxFrameRate>\n        <GovLength>30</GovLength>\n        <fixedQuality>100</fixedQuality>\n        <H264Profile>Main</H264Profile>\n    </Video>\n    <Audio>\n        <enabled>true</enabled>\n        <audioCompressionType>G.711alaw</audioCompressionType>\n        <audioInputChannelID>1</audioInputChannelID>\n    </Audio>\n</StreamingChannel>",
+      "Params" : {
+         "int" : "128"
+      }
+   },
+   {  
+      "idCMD" :"17",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/0",
+      "ISAPIXML" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<StreamingChannel>\n    <Video>\n        <enabled>true</enabled>\n        <videoCodecType>H.264</videoCodecType>\n        <videoResolutionWidth>1280</videoResolutionWidth>\n        <videoResolutionHeight>1080</videoResolutionHeight>\n        <videoQualityControlType>avbr</videoQualityControlType>\n        <vbrUpperCap>256</vbrUpperCap>\n        <maxFrameRate>%d</maxFrameRate>\n        <GovLength>30</GovLength>\n        <fixedQuality>100</fixedQuality>\n        <H264Profile>Main</H264Profile>\n    </Video>\n    <Audio>\n        <enabled>true</enabled>\n        <audioCompressionType>G.711alaw</audioCompressionType>\n        <audioInputChannelID>1</audioInputChannelID>\n    </Audio>\n</StreamingChannel>",
+      "Params" : {
+         "int" : "16"
+      }
+   },
+   {  
+      "idCMD" :"18",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/0",
+      "ISAPIXML" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<StreamingChannel>\n    <Video>\n        <enabled>true</enabled>\n        <videoCodecType>H.264</videoCodecType>\n        <videoResolutionWidth>1280</videoResolutionWidth>\n        <videoResolutionHeight>1080</videoResolutionHeight>\n        <videoQualityControlType>avbr</videoQualityControlType>\n        <vbrUpperCap>256</vbrUpperCap>\n        <maxFrameRate>%d</maxFrameRate>\n        <GovLength>30</GovLength>\n        <fixedQuality>100</fixedQuality>\n        <H264Profile>Main</H264Profile>\n    </Video>\n    <Audio>\n        <enabled>true</enabled>\n        <audioCompressionType>G.711alaw</audioCompressionType>\n        <audioInputChannelID>1</audioInputChannelID>\n    </Audio>\n</StreamingChannel>",
+      "Params" : {
+         "int" : "32"
+      }
+   }, 
+   {  
+      "idCMD" :"19",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/0",
+      "ISAPIXML" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<StreamingChannel>\n    <Video>\n        <enabled>true</enabled>\n        <videoCodecType>H.264</videoCodecType>\n        <videoResolutionWidth>1280</videoResolutionWidth>\n        <videoResolutionHeight>1080</videoResolutionHeight>\n        <videoQualityControlType>avbr</videoQualityControlType>\n        <vbrUpperCap>256</vbrUpperCap>\n        <maxFrameRate>%d</maxFrameRate>\n        <GovLength>30</GovLength>\n        <fixedQuality>100</fixedQuality>\n        <H264Profile>Main</H264Profile>\n    </Video>\n    <Audio>\n        <enabled>true</enabled>\n        <audioCompressionType>G.711alaw</audioCompressionType>\n        <audioInputChannelID>1</audioInputChannelID>\n    </Audio>\n</StreamingChannel>",
+      "Params" : {
+         "int" : "8"
+      }
+   },
+   {  
+      "idCMD" :"20",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/0",
+      "ISAPIXML" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<StreamingChannel>\n    <Video>\n        <enabled>true</enabled>\n        <videoCodecType>H.264</videoCodecType>\n        <videoResolutionWidth>1080</videoResolutionWidth>\n        <videoResolutionHeight>1920</videoResolutionHeight>\n        <videoQualityControlType>avbr</videoQualityControlType>\n        <vbrUpperCap>512</vbrUpperCap>\n        <maxFrameRate>15</maxFrameRate>\n        <GovLength>%d</GovLength>\n        <fixedQuality>100</fixedQuality>\n        <H264Profile>Main</H264Profile>\n    </Video>\n    <Audio>\n        <enabled>true</enabled>\n        <audioCompressionType>G.711alaw</audioCompressionType>\n        <audioInputChannelID>1</audioInputChannelID>\n    </Audio>\n</StreamingChannel>",
+      "Params" : {
+         "int" : "30"
+      }
+   },
+   {  
+      "idCMD" :"21",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/0",
+      "ISAPIXML" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<StreamingChannel>\n    <Video>\n        <enabled>true</enabled>\n        <videoCodecType>H.264</videoCodecType>\n        <videoResolutionWidth>1280</videoResolutionWidth>\n        <videoResolutionHeight>720</videoResolutionHeight>\n        <videoQualityControlType>avbr</videoQualityControlType>\n        <vbrUpperCap>256</vbrUpperCap>\n        <maxFrameRate>15</maxFrameRate>\n        <GovLength>%d</GovLength>\n        <fixedQuality>100</fixedQuality>\n        <H264Profile>Main</H264Profile>\n    </Video>\n    <Audio>\n        <enabled>true</enabled>\n        <audioCompressionType>G.711alaw</audioCompressionType>\n        <audioInputChannelID>1</audioInputChannelID>\n    </Audio>\n</StreamingChannel>",
+      "Params" : {
+         "int" : "10"
+      }
+   }
+]

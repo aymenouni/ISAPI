@@ -1,0 +1,38 @@
+[
+   {
+      "ERROR" : "Argument list too long",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/1",
+      "ISAPIRES" : "NO RESULT",
+      "REP_STATUS" : "KO"
+   },
+   {
+      "ERROR" : "Argument list too long",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/1",
+      "ISAPIRES" : "NO RESULT",
+      "REP_STATUS" : "KO"
+   },
+   {
+      "ERROR" : "Argument list too long",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/1",
+      "ISAPIRES" : "NO RESULT",
+      "REP_STATUS" : "KO"
+   },
+   {
+      "ERROR" : "Argument list too long",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/1",
+      "ISAPI_RESULT" : "��]E�",
+      "REP_STATUS" : "KO"
+   },
+   {
+      "ERROR" : "Argument list too long",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/1",
+      "ISAPI_RESULT" : "��]E�",
+      "REP_STATUS" : "KO"
+   },
+   {
+      "ERROR" : "Argument list too long",
+      "ISAPICmd" : "/ISAPI/Streaming/channels/1",
+      "ISAPI_RESULT" : "\u0002",
+      "REP_STATUS" : "KO"
+   }
+]
